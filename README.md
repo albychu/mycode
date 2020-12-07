@@ -19,4 +19,4 @@ how to install python and python3 using apt.
 
 ## Authors
 
-* **Albert** - *Initial work* - [YourWebsite](https://example.com/)
+* **Albert** - *Learning Python* - [YourWebsite](https://example.com/)
