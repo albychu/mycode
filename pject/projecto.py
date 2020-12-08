@@ -1,4 +1,4 @@
-df List and Dicitionary Challenge!
+# List and Dicitionary Challenge!
 # 
 # Create a list of dog names (at least 3)
 dogs = ['tori', 'bud', 'joy']
@@ -11,6 +11,9 @@ print(dogs[0])
 # Print out the second cat name from your single list
 print(cats[1])
 # Create a dictionary with the keys "first_dog" and "second_cat".
+print(dogs[3][1]) 
+catdog = {"first_dog": dogs[0] , "second_cat": dogs[3][1]}
+
 pets = {'first_dog': 'tori', 'second_cat': 'kit'}
 # Use the appropriate values from your list as the values for the dictionary keys
 
