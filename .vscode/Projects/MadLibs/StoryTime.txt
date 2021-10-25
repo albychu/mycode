@@ -1,0 +1,18 @@
+print("We're no " + pnoun + " to love ")
+print("You know the " + verb1 + " and so do I ")
+print("A " + adj + " commitment's what I'm " + verb2 + " of")
+print("You wouldn't get this from any other " + noun)
+print("I just wanna tell you how I'm " + verb3)
+print("Gotta make you " + verb4)
+print(adverb1 + " gonna " + verb5 + " you up")
+print(adverb2 + " gonna let you down")
+print(adverb3 + " gonna " + verb6 + " around and " + verb7 + " you")
+print(adverb4 + " gonna  " + verb8 + " you " + verb9)
+print(adverb5 + " gonna say " + greet)
+print(adverb6 + " gonna tell a " + verb10 + " and " + verb11 + " you")
+
+
+
+"If you blank a hoel for somoene else, you'l fall into it.
+A lie blank round the world while trush is putting her boots on. 
+No one blank the depth of a iver with both feet. "
